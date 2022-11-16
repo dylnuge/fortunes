@@ -1,0 +1,168 @@
+The 27th (and most recent) amendment to the U.S. Constitution, ratified in 1992,
+had the longest ratification process of any amendment. It was passed by Congress
+on September 25, 1789, as part of the Bill of Rights. The movement to ratify it
+was started by a college sophomore in order to protest a bad grade from a
+professor who told them it couldn't be done.
+%
+Sauna is the only commonly used English word that comes from Finnish.
+%
+In any mathematical system that includes recursion (which is pretty much all the
+useful ones), if the system is consistent, there must be some true statements
+about the system which cannot be proved within the system.
+%
+There are as many fractions as there are counting numbers (1, 2, 3...), but
+there are infinitely more real numbers.
+%
+In 1943 a group of doctors in Rome hid nearly two dozen Jewish people fleeing
+the Holocaust by inventing a disease they called "Syndrome K." Fearing
+infection, Nazi inspectors avoided the quarantined regions of the hospital.
+%
+UK electric grid operators prepare to fail over additional power from French
+electric plants during primetime TV commercial breaks in order to compensate for
+the increased demand in power from many people turning on electric tea kettles
+simultaneously.
+%
+Diatoms are the only organisms whose cell walls are made of silica.
+%
+Only humans and whales go through menopause.
+%
+UK electric grid operators prepare to fail over additional power from French
+electric plants during primetime TV commercial breaks in order to compensate for
+the increased demand in power from many people turning on electric tea kettles
+simultaneously.
+%
+The word candidate comes from the Latin word candidatus, meaning white-robed.
+%
+The shell command "^tyop^typo" will rerun your previous command replacing "tyop"
+with "typo" where it first appears. "^tyop^typo^:G" will do so globally.
+%
+Try out the command `:Ni!` next time you're in Vim.
+%
+The pure oxygen explosion which occured during the Apollo 1 plugs-out test was
+similar to an incident which killed Cosmonaut Valentin Bondarenko 5 years
+earlier during testing of the USSR's Vostok project. Due to the intense secrecy
+around the Soviet space program, this incident was not disclosed until 1986.
+%
+In flight communications the word "takeoff" is only used at the moment when a
+plane is requesting immediate clearence to take off or in the process of taking
+off. At all other times, the term used is "departure." This is one of the
+safeguards put in place following the Tenerife airport disaster.
+%
+The 2003 blackout in northeastern America was partially caused by a race
+condition in the software running on an alarm panel. Operators were unaware they
+were relying on outdated information and made decisions which lead to a
+cascading failure.
+%
+"vi" originally stood for Visual Interface, as it was a visual version of ex
+(the successor of ed, the original Unix text editor).
+%
+Agloe, NY was a real place, but it wasn't real when it was first added to a map
+in the 1930s by mapmaker General Drafting. The intent was to catch people
+counterfeiting their maps, but a real general store sprung up on the spot in the
+1950s.
+%
+An eruv wire, which is frequently attached along telephone poles, surrounds an
+area with a large Orthodox Jewish population. The wire marks the boundaries of a
+community within which carrying objects is permitted on the Sabbath. There are
+eruvin in most major US cities including one in Manhattan that encompasses much
+of the island, an area stretching from Harlem to the East Village.
+%
+Sites (and apps) like Google Maps used to use a variant of the Mercator
+projection, called Web Mercator, which dropped terms from the projection that
+were expensive to compute. Google Maps now smoothly transitions to a spherical
+map at further zoom levels.
+%
+The symbol used in music for common time (4/4 time) looks like a "c" but is
+actually a broken circle. This represents the perceived imperfection in the 14th
+and 15 centuries of 2:1 ratios, where 3/4 time was represented by a full circle,
+and common time was called tempus imperfectum.
+%
+The most common form of "battery" used to store electrical energy for later use
+is pumped storage hydroelectric, where water is pumped using electric motors
+from a lower resovior to a higher one, and dams are opened when the energy is
+needed later. The US electric grid is capable of storing 25 GW of energy this
+way.
+%
+In the maple syrup black market, the people who move product are not called
+"mules." They are called "barrel rollers."
+%
+The CSS color "rebeccapurple" was added as a memorial to Eric Meyer's daughter.
+%
+The period ('.') character is a perfectly legal character to include within a
+DNS label name under the normal DNS spec. Since it is usually used as a readable
+label separator, it's generally not used as part of names in practice.
+%
+Unix time (seconds since Jan 1, 1970, at midnight UTC) will overflow signed
+32-bit integer storage on Jan 19, 2038.
+%
+The tzinfo timezone database has eight different timezones located in the US
+state of Indiana to cover the historical changes to time in various portions of
+the state, including which time zone they are in and whether they observe
+Daylight Savings Time. Three other tzinfo entries also cover portions of the
+state, making for 11 total distinct timezones covering the state.
+%
+In the US Postal Service, the zip code 20252 is assigned to Smokey Bear. In the
+Canada Post Corporation, the postal code H0H 0H0 is assigned to Santa Claus.
+%
+The Farenheit system for temperature measurements is based around a 0°
+temperature that is equivalent to the freezing point of a slurry of salt, ice,
+and water. This is intended to match a very cold day, but it also means that if
+it's below zero Farenheit, salting sidewalks won't work to melt the ice.
+%
+The Celsisus system of temperature measurements was originally designed
+backwards, with hotter temperatures being represented by lower numbers (0°C was
+the boiling point of water and 100°C the freezing point). Several scientists
+independently inverted the scale within a few years of its invention, including
+Carl Linnaeus.
+%
+The SI base unit for mass is the kilogram, and it is the only base unit to have
+a metric prefix (e.g. kilo-, mega-, centi-). In 2019 it was redefined to be
+based on fundamental physical constants, but before that it was equal to the
+weight of an actual physical kilogram kept in a vault.
+%
+Reading from /dev/urandom is entirely cryptographically secure and preferable to
+reading random data from /dev/random (blocking random). On systems which
+implement the getrandom(2) syscall, you can also use that!
+%
+Check out chrome://dino in Google Chrome.
+%
+PostScript, a document format created by Adobe that predates the PDF, is
+actually a full-fledged (Turing complete) programming language.
+%
+It's possible to embed a PDF and a Zip archive in the same file (i.e. identical
+binary data), where opening it in a PDF viewer will display a normal document
+but unzipping it will extract hidden files. This is an example of something
+called a polyglot file.
+%
+Nuclear power is one of the only major forms of electric production on the
+planet that isn't ultimately using energy from Earth's sun. Fossil fuels come
+from dead plant and animal matter, wind is produced by the uneven heating of the
+Earth by the sun (different temperatures create different pressures, hence
+wind), hydroelectric power relies on both wind and evaporation for the water
+cycle, and solar power is pretty self-explanatory. Heavy metals like uranium
+aren't produced by solar fusion, though; they come from supernovae.
+%
+Video file formats tend not to just store a bunch of full frames in sequence;
+instead they are made up of i-frames, which contain a full image, as well as
+p-frames and b-frames, which contain only the difference between a frame and the
+surrounding frames and can be used for compression within a scene where much of
+the image remains static.
+%
+The highest frequency sounds any humans can hear are at 20kHz (and hearing near
+the edge of this range drops off rapidly with age). This means recording audio
+at 40kHz or higher perfectly captures all the sounds *humans* can hear with no
+loss of information.
+%
+The Toledo War, fought between Ohio and Michigan in 1835 and 1836, resulted in a
+single injury, the cessation of the Toledo Strip to Ohio, and the addition of
+the Upper Peninsula to Michigan.
+%
+In 1792, during the French Revolution, France attempted to move to a system of
+decimal time, dividing the day into 10 decimal hours, each with 100 decimal
+minutes of 100 decimal seconds (the seconds themselves were shorter to account
+for a decimal day having 100,000 seconds instead of the 86,400 seconds in a
+standard day).
+%
+🕴 (Man in Business Suit Levitating, U+1F574) was added as an emoji to Unicode
+7.0 in 2014 but originally appeared as one of the 230 characters in the Webdings
+font, created at Microsoft in 1997.
